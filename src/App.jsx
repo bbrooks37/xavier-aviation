@@ -15,6 +15,7 @@ function AstraPilotsPage() {
     { id: 6, name: 'Elliott Bing', phone: '832-392-5226' },
     { id: 7, name: 'Jeff Henderson', phone: '678-237-5429' },
     { id: 8, name: 'Xavier Fernandez', phone: '786-200-4467' },
+    { id: 9, name: 'Kevin McCamey', phone: '727-235-1368' }
   ];
 
   const astraCoCaptains = [
